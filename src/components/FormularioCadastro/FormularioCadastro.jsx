@@ -3,6 +3,7 @@ import "./estilo.css";
 class FormularioCadastro extends Component {
   //teste
   render() {
+    //asdfasdfas
     return (
       <form className="form-cadastro ">
         <input
